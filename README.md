@@ -15,3 +15,4 @@ A Python-based system designed to automate chart signal detection, scan liquidit
 Because this bot connects to a live brokerage account, strict security protocols are built directly into the codebase:
 *   **Credential Hiding:** All API consumer keys and access tokens are kept off GitHub entirely using environment variables and a `.gitignore` file.
 *   **Data Handling:** Implements strict data validation to ensure the bot only processes legitimate, uncorrupted market feeds.# Algo-trading-bot
+# My Algo Trading Bot Sandbox
